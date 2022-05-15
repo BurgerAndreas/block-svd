@@ -1,0 +1,8 @@
+# Andreas Burger, May 2022
+
+Code around our upcoming paper on:
+'Fast block-diagonal Singular Value Decomposition for symmetry-adapted Tensors'
+
+# breadth-first-search.py
+Make any matrix block-diagonal.
+A new variant of the breadth-first search algorithm, extendend to non-symmetric matrices.
